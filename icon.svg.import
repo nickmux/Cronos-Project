@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfliwlwqbvd0q"
-path="res://.godot/imported/icon.svg-1329277d18ced5488efe9587ae15cc5c.ctex"
+path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Cronos-Project/icon.svg"
-dest_files=["res://.godot/imported/icon.svg-1329277d18ced5488efe9587ae15cc5c.ctex"]
+source_file="res://icon.svg"
+dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
 
 [params]
 
